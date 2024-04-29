@@ -2,4 +2,5 @@ venv/
 .csv
 .ipynb_checkpoints/
 __pycache__/
-dataset/
+ddos_balanced/
+ddos_imbalanced/
