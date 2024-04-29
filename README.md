@@ -25,7 +25,7 @@ DDoS Dataset: https://www.kaggle.com/datasets/devendra416/ddos-datasets
    pip install -r requirements.txt
     ```
 
-3. **Download and extract the dataset**
+3. **Download and extract the dataset into folder datasets**
 3. **Execute the jupyter notebook.**
 ## Result
 
